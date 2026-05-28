@@ -1,7 +1,10 @@
 # Démonstration de page web Github
 
-Ceet page Rédigée en Markdown.
-C'est le README d'un tout petit projet jamais terminé. 
+Cette page est rédigée en Markdown ; c'est le README d'un tout petit projet jamais terminé. Si vous voulez voir le code de la page et la simplicité du dépôt, cliquez sur le lien mentionné en bas de page.
+
+
+ Pour tout savoir sur les pages Web Github, c'est [ICI](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages)  pour un  « What is » (EN). Et [ICI](https://docs.github.com/fr/pages/quickstart) pour un « quick start »  (FR).
+
 ---
 ### dialog
 Small tool to use windows in a shell script
@@ -32,7 +35,3 @@ There is no man page for instance. Only help option :
         --version
 ```
 There are still some bugs; not everything is working properly.
----
-## Pour tout savoir sur les pages Web Github,
-c'est [ICI (EN)](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages)  pour un  « What is ».
-Et [ICI (FR)](https://docs.github.com/fr/pages/quickstart) pour un « quick start ».
