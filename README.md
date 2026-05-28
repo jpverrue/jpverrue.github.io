@@ -1,3 +1,15 @@
-# jpverrue.github.io
+# Essai de page web
+### Rédigée en MD
+# dialog
+Small tool to use windows in a shell script
 
-Essai
+With Dialog it is possible to create shell scripts using windowing system.
+For example:
+```
+#!/bin/bash
+if dialog --yesno Do you want to display the time \? ; then
+ date
+else
+ echo sorry
+fi
+```
