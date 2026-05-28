@@ -1,6 +1,6 @@
-# Essai de page web
-Rédigée en MD
+# Démonstration de page web Github
 
+Ceet page Rédigée en Markdown.
 C'est le README d'un tout petit projet jamais terminé. 
 ---
 ### dialog
@@ -32,3 +32,7 @@ There is no man page for instance. Only help option :
         --version
 ```
 There are still some bugs; not everything is working properly.
+---
+Pour tout savoir sur les pages Wieb Github,
+c'est [ICI (EN)](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages)  poue un  « What is »
+et [ICI (FR)](https://docs.github.com/fr/pages/quickstart) pour un « quick start »
