@@ -7,7 +7,7 @@ Cette page est rédigée en Markdown ; c'est le README d'un tout petit projet ja
 
 ---
 ### dialog
-Small tool to use windows in a shell script
+Small tool to use windows in a shell script.
 
 With Dialog it is possible to create shell scripts using windowing system.
 For example:
