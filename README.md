@@ -31,3 +31,4 @@ There is no man page for instance. Only help option :
         --help
         --version
 ```
+There are still some bugs; not everything is working properly.
