@@ -35,3 +35,5 @@ There is no man page for instance. Only help option :
         --version
 ```
 There are still some bugs; not everything is working properly.
+---
+Et voici le [PDF](./Github.io-README.pdf) de cette page WEB
